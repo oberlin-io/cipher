@@ -1,7 +1,7 @@
 # cipher
 A web-based ASCII XOR cipher
 
-Use it here [oberl.info/cgi-bin/cipher/menu.py](http://oberl.info/cgi-bin/cipher/menu.py).
+Use it here [oberl.info/cgi-bin/cipher/menu.py](http://oberl.info/cgi-bin/cipher/menu.py). But know that that is probably not a secure location to be using your keyphrase. Better to download the program and use it locally in the browser.
 
 This small web app written in Python encrypts and decrypts a string by converting characters to their ASCII binary representations and performing an exclusive or (XOR) operation with the key string.
 
